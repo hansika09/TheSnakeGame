@@ -1,7 +1,7 @@
 # TheSnakeGame
 The Classic Snake Game Using JAVA
 
-We all are aware of The Classic Snake game from the times of Nokia and we all actually loved it. Here, is a a game that works like it. The player needs to move the snake using the array keys on the keyboard and once the snake eats an apple, its size increases along with a beep sound. In case the snake hits its own body or the walls of the window, the game ends with a beep.
+We all are aware of The Classic Snake game from the times of Nokia and we all actually loved it. Here is a game that works like it. The player needs to move the snake using the arrow keys on the keyboard and once the snake eats an apple, its size increases along with a beep sound. In case the snake hits its own body or the walls of the window, the game ends with a beep.
 
 ## 📸 Screenshots
 
