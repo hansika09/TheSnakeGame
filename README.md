@@ -5,8 +5,10 @@ We all are aware of The Classic Snake game from the times of Nokia and we all ac
 
 ## 📸 Screenshots
 
-# When the player is in between of the game:
+When the player is in between of the game:
+
 ![Screenshot (30)](https://user-images.githubusercontent.com/56352064/176228418-224e7fa1-dcee-47ea-8bc2-f73dd4c5f16b.png)
 ##
-# When snake either hits itself of the walls:
+When snake either hits itself of the walls:
+
 ![Screenshot (31)](https://user-images.githubusercontent.com/56352064/176228776-9dafdcd8-a40c-4c7a-bff4-6547ed96a8dc.png)
