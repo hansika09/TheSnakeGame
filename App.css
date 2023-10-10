@@ -1,0 +1,96 @@
+.container {
+  text-align: center;
+}
+
+.dataTable {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  background-color: blanchedalmond;
+  border-radius: 1%;
+  font-size: large;
+}
+
+.dataHeader {
+  background-color: bisque;
+}
+
+.dataBody {
+  background-color: beige;
+}
+
+
+/* styles.css */
+
+.entry-form {
+  width: 30%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.form-group {
+  text-align: center;
+  width: 80%;
+  margin: 10px auto;
+}
+
+.newTd {
+  width: 50%;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+}
+
+input[type="text"]{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.btn {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.actionButton {
+  width: 40px;
+  height: 40px;
+  border: none;
+  background: none;
+  border-radius: 50%;
+}
+
+.actionButton:hover {
+  background-color: #ebeaea;
+}
+
+
+.stylingTemp {
+  font-size: 15px;
+  line-height: 24px;
+  margin: 5%;
+  text-align: left;
+  max-width: 165px; /* Set the desired width for each line */
+}
+
+/* .stylingDiv::after {
+  content: "-";
+} */
+
